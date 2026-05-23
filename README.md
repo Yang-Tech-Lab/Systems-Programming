@@ -1,2 +1,2 @@
 # Back-End
-Back-End: JavaScript,node.js,Python,git, GitHub,MySQL,
+Back-End: JavaScript,node.js,Python,git, GitHub,MySQL,PostgreSQL,
