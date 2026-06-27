@@ -1,9 +1,9 @@
 # High-Performance Infra & Backend Stack
 
-## 💻 Core Language
+##Core Language
 - Go (Golang) - Highly Concurrent Systems
 
-## 🐧 OS & Containerization
+##OS & Containerization
 - Linux Standard Kernel / Tools & Networking
 - Docker & Cloud-Native Sandboxing (Namespaces/Cgroups)
 
