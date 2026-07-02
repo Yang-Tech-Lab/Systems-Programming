@@ -12,7 +12,7 @@
 - PostgreSQL / MySQL (Advanced Query Optimization & Indexing)
 - Redis (High-Throughput Memory Cache)
 
-##Automation & Collaboration
+#Automation & Collaboration
 - Git / GitHub CI-CD Pipelines (GitHub Actions)
 - Test-Driven API Development
 - Async-First Written English Communication
