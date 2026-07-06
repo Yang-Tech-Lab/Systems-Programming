@@ -1,5 +1,5 @@
 
-#High-Performance Infra & Backend Stack
+High-Performance Infra & Backend Stack
 
 #Core Language
 - Go (Golang) - Highly Concurrent Systems
